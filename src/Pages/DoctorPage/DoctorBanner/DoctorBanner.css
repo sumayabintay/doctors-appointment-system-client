@@ -1,0 +1,11 @@
+.doctorBanner{
+    background-image: url(../../../assets/images/doctor.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 400px;
+}
+
+.heading{
+    padding-top: 160px;
+    font-weight: 700;
+}
